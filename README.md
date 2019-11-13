@@ -1,4 +1,4 @@
-ngCytoscape
+ngCytoscape-extensions
 =============
 
 A simple angular wrapper for the [Cytocape.js](http://js.cytoscape.org/) library made by Johnny Flinn. Added newest version to bower. This is a complete copy of the github repository made by Johnny Flinn. 
